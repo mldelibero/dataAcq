@@ -6,11 +6,11 @@ FileVersion[20100606]
 PCB["" 600000 500000]
 
 Grid[100.0 0 0 1]
-Cursor[331900 215500 0.000000]
+Cursor[403000 341300 0.000000]
 PolyArea[200000000.000000]
 Thermal[0.500000]
 DRC[1000 1000 1000 1000 1500 1000]
-Flags("showdrc,nameonpcb,clearnew,snappin,locknames")
+Flags("showdrc,nameonpcb,clearnew,snappin")
 Groups("1,c:2,s:3:4:5:6:7:8")
 Styles["Signal,1300,4000,2360,1000:Power,5000,6000,4720,1000:Fat,4000,6000,3500,1000:Skinny,100,2402,1181,600"]
 
@@ -1653,6 +1653,9 @@ Layer(1 "component")
 	Line[258500 271100 260700 268900 1300 2000 "clearline"]
 	Line[260700 268900 260700 270100 1300 2000 "clearline"]
 	Line[260700 270100 258950 271850 1300 2000 "clearline"]
+	Text[284300 331700 0 100 "MICHAEL DELIBERO" "clearline"]
+	Text[276000 341500 0 100 "DATA ACQUISTION BOARD" "clearline"]
+	Text[300100 351800 0 100 "V_1.0" "clearline"]
 	Polygon("clearpoly")
 	(
 		[159600 352100] [171700 352100] [171700 341380] [159600 341380] 
