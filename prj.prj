@@ -1,0 +1,21 @@
+elements-dir /Users/mldelibero/projects/geda2/gedaLib/footprints
+elements-dir /Users/mldelibero/projects/geda2/gedaLib/footprints/.DS_Store
+elements-dir /Users/mldelibero/projects/geda2/gedaLib/footprints/bobbins
+elements-dir /Users/mldelibero/projects/geda2/gedaLib/footprints/caps
+elements-dir /Users/mldelibero/projects/geda2/gedaLib/footprints/connectors
+elements-dir /Users/mldelibero/projects/geda2/gedaLib/footprints/dpak
+elements-dir /Users/mldelibero/projects/geda2/gedaLib/footprints/heatsinks
+elements-dir /Users/mldelibero/projects/geda2/gedaLib/footprints/misc
+elements-dir /Users/mldelibero/projects/geda2/gedaLib/footprints/opamps
+elements-dir /Users/mldelibero/projects/geda2/gedaLib/footprints/osc
+elements-dir /Users/mldelibero/projects/geda2/gedaLib/footprints/pots
+elements-dir /Users/mldelibero/projects/geda2/gedaLib/footprints/relays
+elements-dir /Users/mldelibero/projects/geda2/gedaLib/footprints/sod
+elements-dir /Users/mldelibero/projects/geda2/gedaLib/footprints/soic
+elements-dir /Users/mldelibero/projects/geda2/gedaLib/footprints/sot
+elements-dir /Users/mldelibero/projects/geda2/gedaLib/footprints/switches
+elements-dir /Users/mldelibero/projects/geda2/gedaLib/footprints/to
+elements-dir /Users/mldelibero/projects/geda2/gedaLib/footprints/wfdfn
+
+schematics dataAcq.sch
+output-name lay
